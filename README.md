@@ -1,4 +1,4 @@
-# SkillSync 🚀
+# SkillSync 
 ### AI-Powered Career Tutor & Mentor Platform
 
 SkillSync is an AI-powered learning and career guidance platform designed to transform chaotic and unstructured learning into a clear, guided, and measurable journey.
@@ -7,7 +7,7 @@ It combines structured learning paths, AI-driven mentorship, personalized quizze
 
 ---
 
-## 🌟 Problem Statement
+##  Problem Statement
 
 Students today don’t lack resources — they lack clarity.
 
@@ -22,17 +22,17 @@ SkillSync solves this problem through:
 
 ---
 
-# ✨ Features
+#  Features
 
-- 📚 AI-generated structured learning paths
-- 🔓 Progressive level unlocking system
-- 🧠 Personalized quizzes (Easy → Extreme)
-- 🎯 AI-powered career roadmap generation
-- 📊 Skill assessment & career discovery tests
-- 📈 Progress tracking dashboard
-- 🤖 AI chatbot for doubts and career guidance
+-  AI-generated structured learning paths
+-  Progressive level unlocking system
+-  Personalized quizzes (Easy → Extreme)
+-  AI-powered career roadmap generation
+-  Skill assessment & career discovery tests
+-  Progress tracking dashboard
+-  AI chatbot for doubts and career guidance
 
-## 🧑‍🏫 Dual AI Modes
+##  dual AI Modes
 
 ### Tutor Mode
 - Deep learning assistance
@@ -48,7 +48,7 @@ SkillSync solves this problem through:
 ---
 
 
-# ⚙️ Setup Instructions
+# Setup Instructions
 
 ## 1️⃣ Clone the Repository
 
@@ -92,7 +92,7 @@ http://localhost:3000
 
 ---
 
-# 🧠 Workflow
+#  Workflow
 
 1. User onboarding & interest collection
 2. Skill assessment and analysis
@@ -104,7 +104,7 @@ http://localhost:3000
 
 ---
 
-# 📸 Modules Included
+#  Modules Included
 
 - Learning Path Dashboard
 - AI Quiz Interface
@@ -115,7 +115,7 @@ http://localhost:3000
 
 ---
 
-# 🚀 Future Enhancements
+#  Future Enhancements
 
 - Mobile App Support
 - AI Voice Mentor
