@@ -14,7 +14,7 @@ Students today don’t lack resources — they lack clarity.
 With scattered learning materials, inconsistent roadmaps, and career confusion, learners often feel overwhelmed and directionless.
 
 SkillSync solves this problem through:
-- Structured AI-generated learning paths
+- Structured AI-generated learning path
 - Personalized mentorship
 - Progressive skill validation
 - Career roadmap generation
